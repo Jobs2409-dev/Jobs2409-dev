@@ -5,8 +5,10 @@
 </p>
 
 <p align="center">
-    Desarrollador Full-Stack y estudiante.
+    Desarrollador Full-Stack y estudiante.<br>
+   <code>const yo = await new TecnicoProgramador();</code>
 </p>
+
 ---
 
 ### Tech Stack
