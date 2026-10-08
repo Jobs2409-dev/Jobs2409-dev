@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    Desarrollador Full-Stack y estudiante.
+    Desarrollador Full-Stack y estudiante (x100pre).
 </p>
 ---
 
