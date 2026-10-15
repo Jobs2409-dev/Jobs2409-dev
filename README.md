@@ -51,11 +51,3 @@
 ![Google Chrome](https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Mozilla Firefox](https://img.shields.io/badge/Mozilla_Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jobs2409-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jobs2409-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" height="160" />
-</p>
