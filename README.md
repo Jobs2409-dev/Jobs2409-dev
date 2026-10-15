@@ -51,4 +51,5 @@
 **Navegadores**  
 ![Google Chrome](https://img.shields.io/badge/Google_Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Mozilla Firefox](https://img.shields.io/badge/Mozilla_Firefox-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=brave&logoColor=white)
 
